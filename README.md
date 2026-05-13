@@ -1,6 +1,6 @@
 # Homelab 2026
 
-Un homelab personal construido en base a la virtualización con Proxmox, servicios de self-hostinh y una infraestructura multimedia dedicada. Este artículo abarca todo el hardware, los servicios gestionados, las máquinas virtuales y los equipos de red que estoy utilizando.
+Un homelab personal construido en base a la virtualización con Proxmox, servicios de self-hosting y una infraestructura multimedia dedicada. Este artículo abarca todo el hardware, los servicios gestionados, las máquinas virtuales y los equipos de red que estoy utilizando.
 
 ---
 
